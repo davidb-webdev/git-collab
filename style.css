@@ -1,12 +1,9 @@
 /* Stylish! */
 
-footer {
-  background-color: antiquewhite;
-  min-height: 100px;
-  font-family: 'Times New Roman', Times, serif;
-}
-
-.copyright {
-  text-align: center;
-  
+footer{
+    background-color: pink;
+    border: solid 1px black;
+    font-family: 'Times New Roman', Times, serif;
+    min-height: 100px;
+    text-align: center;
 }

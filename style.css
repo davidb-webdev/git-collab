@@ -1,11 +1,14 @@
 /* Stylish! */
 
 nav a {
+    
     background-color: beige;
     color: red;
     font-weight: bold;
+    text-transform: uppercase;
     text-decoration: none;
-    gap: 10%;
+    margin: 10px;
+    
 
     
 

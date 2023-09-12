@@ -5,3 +5,19 @@ div {
     text-align: center;
     border: 2px solid green;
 }
+nav a {
+    background-color: beige;
+    color: red;
+    font-weight: bold;
+    text-transform: uppercase;
+    text-decoration: none;
+    margin: 10px; 
+}
+  
+footer {
+    background-color: pink;
+    border: solid 1px black;
+    font-family: 'Times New Roman', Times, serif;
+    min-height: 100px;
+    text-align: center;
+}

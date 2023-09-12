@@ -1,1 +1,7 @@
-/* Stylish! */
+div {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: whitesmoke;
+    background-color: darkgreen;
+    text-align: center;
+    border: 2px solid green;
+}

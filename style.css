@@ -1,15 +1,12 @@
-/* Stylish! */
-
 nav a {
-    
     background-color: beige;
     color: red;
     font-weight: bold;
     text-transform: uppercase;
     text-decoration: none;
     margin: 10px;
-    
-
-    
-
+  
+footer{
+    background-color: pink;
+    border: solid 1px black;
 }

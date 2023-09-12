@@ -1,1 +1,12 @@
 /* Stylish! */
+
+footer {
+  background-color: antiquewhite;
+  min-height: 100px;
+  font-family: 'Times New Roman', Times, serif;
+}
+
+.copyright {
+  text-align: center;
+  
+}

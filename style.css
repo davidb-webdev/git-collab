@@ -1,1 +1,6 @@
 /* Stylish! */
+
+footer{
+    background-color: pink;
+    border: solid 1px black;
+}
